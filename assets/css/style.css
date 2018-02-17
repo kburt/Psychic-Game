@@ -1,0 +1,25 @@
+.container {
+    width: 100%;
+    background-image: url("../images/crystal-ball.png");
+    background-repeat: repeat;
+
+}
+
+h1 {
+    font-family: 'Petit Formal Script', cursive;
+    text-align: center;
+}
+
+p {
+    font-family: 'Comfortaa', cursive;
+}
+
+img {
+   display: block;
+    margin: 0 auto;
+    border-radius: 50px;
+}
+
+.content {
+    text-align: center;
+}
